@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>sitefixCatalogue</name>
+    <displayName><![CDATA[View pdf catalogues]]></displayName>
+    <version><![CDATA[0.0.1]]></version>
+    <description><![CDATA[If you have pdf catalog and you want display it on your website, this module allow to his in just 4 click]]></description>
+    <author><![CDATA[EMANUEL ABIZIMI]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

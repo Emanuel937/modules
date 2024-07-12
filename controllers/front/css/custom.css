@@ -1,0 +1,37 @@
+/* Custom code goes here - paste your css code below in line 8 */
+
+a.product-flags-plist span.product-flag.new,
+#product #content .product-flags .product-flag.new {
+color: #000;
+}
+
+div#angarinfo_block {
+  text-align: center;
+  float: left;
+  width: 100%;
+  padding: 10px 0 0;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+div#angarinfo_block .icon_cms {
+  color: #999;
+}
+
+
+a.product-flags-plist span.product-flag.new, #product #content .product-flags .product-flag.new {
+  color: white;
+}
+div#angarinfo_block .fa.icon_cms{
+  color: #82828261;
+}
+
+main a.product-flags-plist span.product-flag.new, #home_cat_product a.product-flags-plist span.product-flag.new, #product #content .product-flags li, #product #content .product-flags .product-flag.new {
+  background: #318;
+}
+
+main .button-container .add-to-cart, .button-container .add-to-cart:disabled, #subcart .cart-buttons .viewcart, body#view ul li.wishlist-products-item .wishlist-product-bottom .btn-primary {
+  background: #318;
+  color: white;
+  Border: none
+  
+}
